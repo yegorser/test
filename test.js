@@ -1,6 +1,4 @@
 const test = "blablabla:;
 
-
-sdgsdgg
-vhhrrg
+Привіт
 ffgfgfgfgfg
