@@ -1,4 +1,2 @@
-const test = "blablabla:;
+const test = "Відкрита вітка dev";
 
-Привіт
-ffgfgfgfgfg
